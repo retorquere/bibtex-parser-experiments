@@ -27,7 +27,7 @@
     "benchmark": "^2.1.4",
     "biblatex-csl-converter": "^1.7.3",
     "moo": "^0.5.1",
-    "nearley": "^2.19.0",
+    "nearley": "^2.19.2",
     "translation-server": "git+https://github.com/zotero/translation-server.git"
   },
   "devDependencies": {
