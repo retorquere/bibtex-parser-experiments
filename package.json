@@ -25,7 +25,7 @@
   "dependencies": {
     "@retorquere/bibtex-parser": "^3.1.22",
     "benchmark": "^2.1.4",
-    "biblatex-csl-converter": "^1.7.3",
+    "biblatex-csl-converter": "^1.9.5",
     "moo": "^0.5.1",
     "nearley": "^2.19.0",
     "translation-server": "git+https://github.com/zotero/translation-server.git"
